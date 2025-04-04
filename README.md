@@ -1,6 +1,5 @@
 # Saas-Website-Elevora
 
-Elevora Website
 Project Overview:
 Elevora is a fully responsive, modern web application designed to help startups organize, collaborate, and track their progress. This project focuses on creating a sleek and user-friendly landing page with interactive features to attract potential users and provide them with the information they need to get started with the platform.
 
